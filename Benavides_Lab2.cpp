@@ -2,8 +2,10 @@
 // Mario Benavides
 // Lab 2 Completed
 
+
 #include <iostream>
 using namespace std;
+
 
 int main()
 {
@@ -53,6 +55,7 @@ int main()
 	
 	cout << "You saved $ " << discount << endl;		 // added a "you saved" section for fun. 
 	cout << "The total cost of the purchase is $ " << grand << endl;
+	
 	
 	return 0;	
 }
